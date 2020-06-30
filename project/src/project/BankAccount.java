@@ -73,7 +73,7 @@ public class BankAccount
   
 	public static void main(String arg[])
 	{
-		//@SuppressWarnings("resource")
+		@SuppressWarnings("resource")
 		Scanner bank=new Scanner(System.in);
 		
 		//create initial accounts
